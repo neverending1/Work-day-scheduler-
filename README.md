@@ -6,3 +6,6 @@ I made a work scheduler using moment.js, JavaScript, JQuery, HTML & CSS. It chan
 
 ## Mock Up
 ![work day scheduler](./assets/images/Screenshot%202023-03-09%20at%2015.45.00.png)
+
+## Deployed site
+https://neverending1.github.io/Work-day-scheduler-/
